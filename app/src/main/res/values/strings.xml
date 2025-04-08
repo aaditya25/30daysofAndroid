@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">30 days of Android</string>
+    <string name="tutorial_title_1">Unit 1: Your first Android app</string>
+    <string name="tutorial_title_description_1">Learn programming basics and create your first Android app.</string>
+    <string name="tutorial_subtitle_1_1">Introduction to Kotlin</string>
+    <string name="tutorial_subtitle_description_1_1">Learn introductory programming concepts in Kotlin.</string>
+    <string name="tutorial_subtitle_1_2">Setup Android Studio</string>
+    <string name="tutorial_subtitle_description_1_2">Install and set up Android Studio, create your first project, and run it on a device or emulator.</string>
+    <string name="tutorial_subtitle_1_3">Build a basic layout</string>
+    <string name="tutorial_subtitle_description_1_3">Build an Android app with a simple user interface that displays text and images.</string>
+
+    <string name="tutorial_title_2">Unit 2: Building app UI</string>
+    <string name="tutorial_title_description_2">Continue learning the fundamentals of Kotlin, and start building more interactive apps.</string>
+    <string name="tutorial_subtitle_2_1">Kotlin fundamentals</string>
+    <string name="tutorial_subtitle_description_2_1">Learn more fundamentals of Kotlin, object-oriented programming, and lambdas.</string>
+    <string name="tutorial_subtitle_2_2">Add a button to an app</string>
+    <string name="tutorial_subtitle_description_2_2">Learn how to respond to a button click in an Android app.</string>
+    <string name="tutorial_subtitle_2_3">Interacting with UI and state</string>
+    <string name="tutorial_subtitle_description_2_3">Create a tip calculator app that calculates the tip from user input.</string>
+
+    <string name="tutorial_title_3">Unit 3: Display lists and use Material Design</string>
+    <string name="tutorial_title_description_3">Build apps that display a list of data and learn how to make your apps more beautiful with Material Design.</string>
+    <string name="tutorial_subtitle_3_1">More Kotlin fundamentals</string>
+    <string name="tutorial_subtitle_description_3_1">Learn additional Kotlin programming concepts that will enable you to build more interesting and fun Android apps.</string>
+    <string name="tutorial_subtitle_3_2">Build a scrollable list</string>
+    <string name="tutorial_subtitle_description_3_2">Create an app that displays a scrollable list of text and images using Compose.</string>
+    <string name="tutorial_subtitle_3_3">Build beautiful apps</string>
+    <string name="tutorial_subtitle_description_3_3">Make your apps more beautiful and intuitive to use with Material Design, animations, and accessibility best practices.</string>
+
+    <string name="tutorial_title_4">Unit 4: Navigation and app architecture</string>
+    <string name="tutorial_title_description_4">Learn the best practices of app architecture to build more complex apps. Enhance your users ability to navigate across, into and back out from the various screens within your app for a consistent and predictable user experience.</string>
+    <string name="tutorial_subtitle_4_1">Architecture Components</string>
+    <string name="tutorial_subtitle_description_4_1">Learn about app architecture and how to use ViewModels, UI State, and StateFlow to build more complex apps.</string>
+    <string name="tutorial_subtitle_4_2">Navigation in Jetpack Compose</string>
+    <string name="tutorial_subtitle_description_4_2">Learn how to use the Navigation component to build more complex apps with more screens and how to navigate and pass data between different composables.</string>
+    <string name="tutorial_subtitle_4_3">Adapt for different screen sizes </string>
+    <string name="tutorial_subtitle_description_4_3">In this pathway, you will learn how to adapt your app to different screen sizes and provide a better user experience, as well as how to test your adaptive UI.</string>
+</resources>
